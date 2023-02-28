@@ -1,0 +1,5 @@
+classes=2
+train=../bag_yolotest/cfg/train.txt
+valid=../bag_yolotest/cfg/val.txt
+names=../bag_yolotest/cfg/bag_yolotest.names
+backup=../bag_yolotest/cfg/weights
